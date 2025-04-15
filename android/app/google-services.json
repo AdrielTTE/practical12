@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475384191403",
+    "project_id": "mad-practical12",
+    "storage_bucket": "mad-practical12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475384191403:android:cdeb5b290237e8feb19aee",
+        "android_client_info": {
+          "package_name": "com.example.practical12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwxvEAQfmy87XZX3_OUUB5fY__B6HVco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
